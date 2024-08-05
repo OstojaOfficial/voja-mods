@@ -1,0 +1,13 @@
+filename = 'VanillaFix-1.0.10-150.jar'
+name = 'VanillaFix'
+side = 'client'
+
+[download]
+hash = 'dd5f85a44ab2aeefdff0bc69fd7634ffdc44121dcb41623f444fff0b14cdeacd472be99a1dbe7446b2aabe1343333dceedea0f05f16ee95896f24d9db9e96495'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eQQWhoFq/versions/1.0.10-150/VanillaFix-1.0.10-150.jar'
+
+[update.modrinth]
+mod-id = 'eQQWhoFq'
+version = '1MMmIOiX'
